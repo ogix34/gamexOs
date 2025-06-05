@@ -1,3 +1,1 @@
 # gamexOs
-
-Project placeholder
